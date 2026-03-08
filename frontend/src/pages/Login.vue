@@ -49,6 +49,13 @@ Login
 
 </button>
 
+<p class="mt-4 text-center">
+Don't have an account?
+<router-link to="/signup" class="text-blue-500 underline">
+Signup
+</router-link>
+</p>
+
 </div>
 
 </div>
